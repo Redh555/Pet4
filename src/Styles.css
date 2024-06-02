@@ -9,24 +9,3 @@
   max-width: 2300px;
   margin: 0 auto;
 }
-.main-content-top img {
-  width: 100%;
-  height: auto;
-}
-.header-content {
-  grid-area: header-content;
-  background-color: blue;
-  /* margin: auto; */
-}
-.header-img {
-  width: 100px;
-}
-
-.left-content {
-  grid-area: left-content;
-  background-color: green;
-}
-.main-content {
-  grid-area: main-content;
-  background-color: red;
-}

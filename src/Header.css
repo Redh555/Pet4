@@ -1,0 +1,8 @@
+.header-content {
+  grid-area: header-content;
+  background-color: blue;
+  /* margin: auto; */
+}
+.header-img {
+  width: 100px;
+}
