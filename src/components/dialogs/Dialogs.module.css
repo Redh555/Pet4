@@ -1,0 +1,5 @@
+.dialogs_content {
+  grid-area: main-content;
+  background-color: red;
+  color: green;
+}

@@ -1,9 +1,9 @@
-.main_content {
+.profile_content {
   grid-area: main-content;
   background-color: red;
 }
 
-.main_top img {
+.profile_top img {
   max-height: 800px;
   width: 80%;
 }
