@@ -5,6 +5,11 @@
 
 .item {
   color: yellow;
+  text-decoration: none;
+}
+.active {
+  color: purple;
+  text-decoration: none;
 }
 
 .item.active {

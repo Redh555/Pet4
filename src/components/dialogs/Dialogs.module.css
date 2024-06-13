@@ -1,5 +1,23 @@
-.dialogs_content {
+.dialog_content {
   grid-area: main-content;
   background-color: red;
   color: green;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogItems {
+  padding: 10px;
+  /* color: pink; */
+}
+
+.item {
+  color: blue;
+}
+.active {
+  color: rgb(0, 128, 23);
+}
+.dialog_messages {
+  padding: 10px;
+  color: blanchedalmond;
 }
